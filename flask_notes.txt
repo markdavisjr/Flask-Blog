@@ -1,0 +1,8 @@
+Environment variables:
+
+export FLASK_APP=<insert flask app name here>
+export FLASK_DEBUG=1
+
+To run flask:
+
+flask run
